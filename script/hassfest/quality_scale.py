@@ -1038,6 +1038,7 @@ INTEGRATIONS_WITHOUT_QUALITY_SCALE_FILE = [
 ]
 
 INTEGRATIONS_WITHOUT_SCALE = [
+    "apex_amplifier",
     "abode",
     "accuweather",
     "acmeda",

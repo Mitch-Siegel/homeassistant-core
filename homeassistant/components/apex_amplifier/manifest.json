@@ -1,0 +1,17 @@
+{
+  "domain": "apex_amplifier",
+  "name": "cloudpower_amplifier",
+  "codeowners": [
+    "@Mitch-Siegel"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/apex_amplifier",
+  "homekit": {},
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "quality_scale": "internal",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
